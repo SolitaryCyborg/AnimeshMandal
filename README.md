@@ -4,11 +4,10 @@
 [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)
 
-<https://jarrekk.github.io/Jalpc/>
+<https://solitarycyborg.github.io/AnimeshMandal/>
 
-<http://www.jarrekk.com>  -- Personal website
 
-![Blog](https://github.com/jarrekk/Jalpc/raw/master/readme_files/Jalpc.png)
+![Blog](https://medium.com/@SolitaryCyborg)
 
 - [3 steps to setup this theme at your website!](#3-steps-to-setup-this-theme-at-your-website)
 - [Features](#features)
@@ -29,7 +28,7 @@
   - [Ensure there's an upstream remote](#ensure-theres-an-upstream-remote)
   - [Pull in the latest changes](#pull-in-the-latest-changes)
 - [Todo](#todo)
-- [Donate Jalpc](#donate-jalpc)
+
 - [Wiki](#wiki)
 - [Ad](#ad)
 
