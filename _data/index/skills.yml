@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Salesforce, Running, JavaScript, Consulting, Gardening, Gaming, Writing, Sleeping
-percentage: 70, 50, 30, 80, 70, 90, 50, 100
+aspects: Salesforce, Running, Consulting, JavaScript, Gaming, Gardening, Writing, Sleeping
+percentage: 70, 50, 80, 30, 90, 70, 50, 100
