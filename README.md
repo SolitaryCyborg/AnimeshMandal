@@ -6,6 +6,29 @@
 
 <https://solitarycyborg.github.io/AnimeshMandal/>
 
+- [3 steps to setup this theme at your website!](#3-steps-to-setup-this-theme-at-your-website)
+- [Features](#features)
+  - [Index page](#index-page)
+    - [`_data/*.yml`](#_datayml)
+  - [Chart Skills](#chart-skills)
+  - [Categories in blog page](#categories-in-blog-page)
+  - [Pagination](#pagination)
+  - [Page views counter](#page-views-counter)
+  - [Multilingual Page](#multilingual-page)
+  - [Web analytics](#web-analytics)
+  - [Comment](#comment)
+  - [Share](#share)
+  - [Search engines](#search-engines)
+  - [Compress CSS and JS files](#compress-css-and-js-files)
+- [Put in a Jalpc Plug](#put-in-a-jalpc-plug)
+- [Upgrading Jalpc](#upgrading-jalpc)
+  - [Ensure there's an upstream remote](#ensure-theres-an-upstream-remote)
+  - [Pull in the latest changes](#pull-in-the-latest-changes)
+- [Todo](#todo)
+- [Donate Jalpc](#donate-jalpc)
+- [Wiki](#wiki)
+- [Ad](#ad)
+
 This is a simple, beautiful and swift theme for Jekyll. It's mobile first, fluidly responsive, and delightfully lightweight.
 
 If you're completely new to Jekyll, I recommend checking out the documentation at <http://jekyllrb.com> or there's a tutorial by Smashing Magazine.
@@ -124,6 +147,20 @@ I use [UglifyJS2](https://github.com/mishoo/UglifyJS2), [clean-css](https://gith
 OR
 
 Edit CSS files at `_sass` folder.
+
+# Local tests/development
+
+First, install Jekyll on terminal:
+
+```shell
+bundle install
+```
+
+Then, execute:
+
+```shell
+bundle exec jekyll serve
+```
 
 # Put in a Jalpc Plug
 
